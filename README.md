@@ -1,0 +1,1 @@
+# shyntiayuriza.github.io
