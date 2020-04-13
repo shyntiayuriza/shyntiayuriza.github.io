@@ -300,8 +300,10 @@ a:active{text-decoration:underline;}
 }
 
 .bg-right-ps{
-	background-color: #e9e9e9;
+	background-color: #DBDBDB;
 	height: 571px !important;
+	text-align: center;
+	padding-top: 100px;
 }
 
 /*------achieve------*/
@@ -369,10 +371,18 @@ a:active{text-decoration:underline;}
 
 .bg-01{
 	background-color: #838383;
+	background-image: url(../images/asset/professionalSkill.png);
+	background-size: 200px 200px;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .bg-02{
 	background-color: #dddddd;
+	background-image:url(../images/asset/Pro_Skills.png);
+	background-size: 200px 200px;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .li-work a{
@@ -812,49 +822,3 @@ q {
 	width: 160px;
 	height: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
