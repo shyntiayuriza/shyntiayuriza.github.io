@@ -17,7 +17,7 @@ caption,th,td{text-align:left;}
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
 sup{vertical-align:text-top;}
 sub{vertical-align:text-bottom;}
-input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
+input,textarea,select{font-size:inherit;font-weight:inherit;}
 input,textarea,select{*font-size:100%;}
 
 a:link{text-decoration:underline;}
@@ -145,14 +145,14 @@ a:active{text-decoration:underline;}
 
 
 .mainBanner .rightCnt h1{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	color: #1d1d1d;
 	font-size: 38px;
 	font-weight: bold;
 }
 
 .text-mb{
-	font-family: "Nunito Sans Regular";
+	font-family: 'Nunito Sans';
 	font-size: 18px;
 	color: #787878;
 	margin-top: 30px;
@@ -181,7 +181,7 @@ a:active{text-decoration:underline;}
 
 
 .btn-mb p{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 12px;
 	color: #ffffff;
 	
@@ -199,7 +199,7 @@ a:active{text-decoration:underline;}
 }
 
 .aboutUs h2{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 30px;
 	color: #191919;
 	font-weight: bold;
@@ -208,7 +208,7 @@ a:active{text-decoration:underline;}
 .aboutUs p{
 	margin: 40px 0 37px;
 	font-size: 16px;
-	font-family: "Nunito Sans Regular";
+	font-family: 'Nunito Sans';
 	color: #787878;
 }
 
@@ -241,7 +241,7 @@ a:active{text-decoration:underline;}
 }
 
 .text-ps h2{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 30px;
 	color: #171717;
 	font-weight: bold;
@@ -250,7 +250,7 @@ a:active{text-decoration:underline;}
 
 
 .text-ps p{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 12px;
 	color: #000000;
 	font-weight: bold;
@@ -477,7 +477,7 @@ a:active{text-decoration:underline;}
 }
 
 .btn-load-more p{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 12px;
 	color: #8e8e8e;
 	font-weight: bold;
@@ -497,13 +497,13 @@ a:active{text-decoration:underline;}
 }
 
 .workProcess h2{
-	font-family: "Montserrat Medium";
+	font-family: 'Montserrat';
 	font-size: 30px;
 	color: #191919;
 }
 
 .workProcess p{
-	font-family: "Nunito Sans Regular";
+	font-family: 'Nunito Sans';
 	font-size: 16px;
 	color: #787878;
 	margin: 40px 0 60px;
@@ -563,7 +563,7 @@ a:active{text-decoration:underline;}
 .li-service h3{
 	color: #787878;
 	font-size: 16px;
-	font-family: "Nunito Sans Regular";
+	font-family: 'Nunito Sans';
 	margin: 10px auto;
 }
 
@@ -571,7 +571,7 @@ a:active{text-decoration:underline;}
 .li-service p{
 	color: #787878;
 	font-size: 16px;
-	font-family: "Nunito Sans Regular";
+	font-family: 'Nunito Sans';
 }
 
 
@@ -669,14 +669,14 @@ q {
 }
 
 .form-contact h2{
-	font-family: 'Montserrat Medium';
+	font-family: 'Montserrat';
 	font-size: 30px;
 	color: #1d1d1d;
 }
 
 .form-contact p{
 	font-size: 16px;
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	color: #787878;
 	margin-top: 30px;
 	margin-bottom: 40px;
@@ -769,24 +769,24 @@ q {
 .title-footer{
 	font-size: 18px;
 	color: #ffffff;
-	font-family: 'Montserrat Medium';
+	font-family: 'Montserrat';
 }
 
 .copyright{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 	margin-top: 10px;
 }
 
 .email{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 }
 
 .hotline{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 	
@@ -812,7 +812,7 @@ q {
 }
 
 .left-sub-div ul li{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 	line-height: 1.4;
@@ -833,7 +833,7 @@ q {
 }
 
 .right-sub-div ul li{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 	line-height: 1.4;
@@ -856,7 +856,7 @@ q {
 }
 
 .right-footer ul li{
-	font-family: 'Nunito Sans Regular';
+	font-family: 'Nunito Sans';
 	font-size: 15px;
 	color: #bcbcbc;
 	line-height: 1.4;
