@@ -563,6 +563,7 @@ a:active{text-decoration:underline;}
 .li-service h3{
 	color: #787878;
 	font-size: 16px;
+	font-weight: bold;
 	font-family: 'Nunito Sans';
 	margin: 10px auto;
 }
