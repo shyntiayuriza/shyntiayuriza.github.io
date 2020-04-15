@@ -103,10 +103,11 @@ a:active{text-decoration:underline;}
 
 .li-header{
 	float: right;
-	margin-left: 20px;
+	margin-left: 30px;
 }
 
 .li-header p{
+	font-family: 'Montserrat';
 	font-size: 12px;
 	color: #000000;
 	font-weight: bold;
@@ -115,6 +116,7 @@ a:active{text-decoration:underline;}
 .li-header p a{
 	color: #000000;
 	text-decoration: none;
+	
 }
 
 .li-header p a:hover{
@@ -355,13 +357,19 @@ a:active{text-decoration:underline;}
 }
 
 .text-01-01{
+	font-family: 'Montserrat';
 	font-size: 18px;
 	color: #ffffff;
+	letter-spacing: 2px;
+	font-weight: bold;
 }
 
 .text-01-02{
+	font-family: 'Montserrat';
 	font-size: 12px;
 	color: #ffffff;
+	letter-spacing: 2px;
+	font-weight: bold;
 }
 
 /*------Work------*/
@@ -499,6 +507,7 @@ a:active{text-decoration:underline;}
 .workProcess h2{
 	font-family: 'Montserrat';
 	font-size: 30px;
+	font-weight: bold;
 	color: #191919;
 }
 
@@ -587,14 +596,17 @@ a:active{text-decoration:underline;}
 
 .mySlides {
 	display: none;
-	padding: 175px 266px 59px 266px;
+	width: 805px;
+	height: auto;
+	margin: 0 auto;
+	padding: 175px 0 59px 0;
 	box-sizing: border-box;
 	text-align: center;
 	}
 
 .dot-container {
     text-align: center;
-    padding: 80px;
+    padding: 50px;
 	box-sizing: border-box;
 }
 
@@ -616,15 +628,19 @@ a:active{text-decoration:underline;}
 }
 
 q {
+	font-family: 'Montserrat';
+	font-weight: bold;
 	font-size: 24px;
 	color: #ffffff;
-	font-style: italic;
+	line-height: 1.5;
 }
 
 .author{
+	font-family: 'Montserrat';
 	font-size: 12px;
+	font-weight: bold;
 	color: #ffffff;
-	margin-top: 40px;
+	margin-top: 25px;
 }
 
 
