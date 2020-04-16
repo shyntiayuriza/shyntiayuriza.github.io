@@ -157,6 +157,7 @@ a:active{text-decoration:underline;}
 	font-family: 'Nunito Sans';
 	font-size: 18px;
 	color: #787878;
+	line-height: 1.6;
 	margin-top: 30px;
 	margin-bottom: 39px;
 }
@@ -185,6 +186,8 @@ a:active{text-decoration:underline;}
 .btn-mb p{
 	font-family: 'Montserrat';
 	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 2px;
 	color: #ffffff;
 	
 }
@@ -211,6 +214,7 @@ a:active{text-decoration:underline;}
 	margin: 40px 0 37px;
 	font-size: 16px;
 	font-family: 'Nunito Sans';
+	line-height: 1.6;
 	color: #787878;
 }
 
@@ -258,6 +262,7 @@ a:active{text-decoration:underline;}
 	font-weight: bold;
 	margin-top: 40px;
 	margin-bottom: 20px;
+	letter-spacing: 2px;
 }
 
 
@@ -570,11 +575,12 @@ a:active{text-decoration:underline;}
 }
 
 .li-service h3{
-	color: #787878;
+	color: #191919;
 	font-size: 16px;
 	font-weight: bold;
 	font-family: 'Nunito Sans';
 	margin: 20px auto 10px;
+	letter-spacing: 2px;
 }
 
 
@@ -632,7 +638,8 @@ q {
 	font-weight: bold;
 	font-size: 24px;
 	color: #ffffff;
-	line-height: 1.5;
+	line-height: 1.6;
+	letter-spacing: 1px;
 }
 
 .author{
@@ -641,6 +648,7 @@ q {
 	font-weight: bold;
 	color: #ffffff;
 	margin-top: 25px;
+	letter-spacing: 1px;
 }
 
 
